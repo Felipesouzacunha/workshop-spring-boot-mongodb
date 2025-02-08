@@ -3,7 +3,6 @@ package com.felipesouza.workshopmongo.domain;
 import java.io.Serializable;
 import java.util.Objects;
 
-import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
